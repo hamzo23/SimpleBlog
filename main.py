@@ -3,8 +3,8 @@ import streamlit as st
 # EDA PKGS
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import matplotlib
+import matplotlib.pyplot as plt
 matplotlib.use('Agg')
 
 # Database
